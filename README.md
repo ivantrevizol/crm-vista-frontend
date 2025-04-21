@@ -1,2 +1,2 @@
-# crm-vista-frontend
-crm-vista-frontend
+# CRM Vista CX Frontend
+React + Vite + Tailwind
